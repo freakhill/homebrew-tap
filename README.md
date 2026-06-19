@@ -13,6 +13,9 @@ brew install --cask claudemetre
 
 Upgrade with `brew upgrade --cask claudemetre`; remove with `brew uninstall --cask claudemetre`.
 
+> If Homebrew refuses with an "untrusted tap" message (only happens when
+> `HOMEBREW_REQUIRE_TAP_TRUST` is set), run `brew trust freakhill/tap` once first.
+
 Source & releases: <https://github.com/freakhill/claudemetre>
 
 ---
