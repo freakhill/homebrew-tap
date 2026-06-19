@@ -8,7 +8,7 @@ cask "claudemetre" do
   homepage "https://github.com/freakhill/claudemetre"
 
   # Developer-ID signed + Apple-notarized, so no :no_quarantine needed.
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "claudemetre.app"
 
