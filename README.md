@@ -8,6 +8,7 @@ A native macOS menubar gauge for Claude Code usage â€” session / burn / weekly â
 
 ```sh
 brew tap freakhill/tap
+brew trust freakhill/tap
 brew install --cask claudemetre
 ```
 
