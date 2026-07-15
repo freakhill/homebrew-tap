@@ -1,6 +1,6 @@
 cask "claudemetre" do
-  version "1.1.25"
-  sha256 "a00181cf5f7bc5091f934b82c5bd075ff001bd123b126a627cbe2e9b724d0ecb"
+  version "1.1.26"
+  sha256 "76c3b5e263a424fd2a9cacf298bd935d5c766c72b2fda1ade26d7af1e6283e2e"
 
   url "https://github.com/freakhill/claudemetre/releases/download/v#{version}/claudemetre-#{version}.zip"
   name "claudemetre"
